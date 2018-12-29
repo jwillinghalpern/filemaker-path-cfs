@@ -1,3 +1,4 @@
 # Ignore recover and import logs
 *.log
 
+*.png
